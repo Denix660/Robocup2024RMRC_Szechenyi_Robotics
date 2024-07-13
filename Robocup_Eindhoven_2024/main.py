@@ -2,7 +2,6 @@ import Adafruit_PCA9685
 import pygame
 from gpiozero import Motor, OutputDevice
 
-#szija
 
 pygame.init()
 ablak = pygame.display.set_mode((300,300))
